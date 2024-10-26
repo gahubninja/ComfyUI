@@ -23,6 +23,7 @@ folder_names_and_paths["diffusion_models"] = ([os.path.join(models_dir, "unet"),
 folder_names_and_paths["clip_vision"] = ([os.path.join(models_dir, "clip_vision")], supported_pt_extensions)
 folder_names_and_paths["style_models"] = ([os.path.join(models_dir, "style_models")], supported_pt_extensions)
 folder_names_and_paths["embeddings"] = ([os.path.join(models_dir, "embeddings")], supported_pt_extensions)
+folder_names_and_paths["yolov8"] = ([os.path.join(models_dir, "yolov8")], supported_pt_extensions)
 folder_names_and_paths["diffusers"] = ([os.path.join(models_dir, "diffusers")], ["folder"])
 folder_names_and_paths["vae_approx"] = ([os.path.join(models_dir, "vae_approx")], supported_pt_extensions)
 
